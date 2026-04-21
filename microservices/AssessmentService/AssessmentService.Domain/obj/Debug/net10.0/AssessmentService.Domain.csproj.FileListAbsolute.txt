@@ -1,0 +1,12 @@
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Domain\bin\Debug\net10.0\AssessmentService.Domain.deps.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Domain\bin\Debug\net10.0\AssessmentService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Domain\bin\Debug\net10.0\AssessmentService.Domain.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Domain\obj\Debug\net10.0\AssessmentService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Domain\obj\Debug\net10.0\AssessmentService.Domain.AssemblyInfoInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Domain\obj\Debug\net10.0\AssessmentService.Domain.AssemblyInfo.cs
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Domain\obj\Debug\net10.0\AssessmentService.Domain.csproj.CoreCompileInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Domain\obj\Debug\net10.0\AssessmentService.Domain.sourcelink.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Domain\obj\Debug\net10.0\AssessmentService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Domain\obj\Debug\net10.0\refint\AssessmentService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Domain\obj\Debug\net10.0\AssessmentService.Domain.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Domain\obj\Debug\net10.0\ref\AssessmentService.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vC41HwdaaWs=",
+  "success": true,
+  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\AssessmentService\\AssessmentService.API\\AssessmentService.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pmdhrs\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.6\\microsoft.aspnetcore.openapi.10.0.6.nupkg.sha512",
+    "C:\\Users\\pmdhrs\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

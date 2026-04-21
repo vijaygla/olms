@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yzFfut3mpkk=",
+  "success": true,
+  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\IdentityService\\IdentityService.Application\\IdentityService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pmdhrs\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

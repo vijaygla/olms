@@ -1,0 +1,12 @@
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Domain\bin\Debug\net10.0\EnrollmentService.Domain.deps.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Domain\bin\Debug\net10.0\EnrollmentService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Domain\bin\Debug\net10.0\EnrollmentService.Domain.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Domain\obj\Debug\net10.0\EnrollmentService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Domain\obj\Debug\net10.0\EnrollmentService.Domain.AssemblyInfoInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Domain\obj\Debug\net10.0\EnrollmentService.Domain.AssemblyInfo.cs
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Domain\obj\Debug\net10.0\EnrollmentService.Domain.csproj.CoreCompileInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Domain\obj\Debug\net10.0\EnrollmentService.Domain.sourcelink.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Domain\obj\Debug\net10.0\EnrollmentService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Domain\obj\Debug\net10.0\refint\EnrollmentService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Domain\obj\Debug\net10.0\EnrollmentService.Domain.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Domain\obj\Debug\net10.0\ref\EnrollmentService.Domain.dll

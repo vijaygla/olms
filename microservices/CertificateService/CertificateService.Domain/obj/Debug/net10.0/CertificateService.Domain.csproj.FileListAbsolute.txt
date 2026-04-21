@@ -1,0 +1,12 @@
+C:\v\OnlineLearningManagementSystemBackend\microservices\CertificateService\CertificateService.Domain\bin\Debug\net10.0\CertificateService.Domain.deps.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\CertificateService\CertificateService.Domain\bin\Debug\net10.0\CertificateService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\CertificateService\CertificateService.Domain\bin\Debug\net10.0\CertificateService.Domain.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\CertificateService\CertificateService.Domain\obj\Debug\net10.0\CertificateService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\OnlineLearningManagementSystemBackend\microservices\CertificateService\CertificateService.Domain\obj\Debug\net10.0\CertificateService.Domain.AssemblyInfoInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\CertificateService\CertificateService.Domain\obj\Debug\net10.0\CertificateService.Domain.AssemblyInfo.cs
+C:\v\OnlineLearningManagementSystemBackend\microservices\CertificateService\CertificateService.Domain\obj\Debug\net10.0\CertificateService.Domain.csproj.CoreCompileInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\CertificateService\CertificateService.Domain\obj\Debug\net10.0\CertificateService.Domain.sourcelink.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\CertificateService\CertificateService.Domain\obj\Debug\net10.0\CertificateService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\CertificateService\CertificateService.Domain\obj\Debug\net10.0\refint\CertificateService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\CertificateService\CertificateService.Domain\obj\Debug\net10.0\CertificateService.Domain.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\CertificateService\CertificateService.Domain\obj\Debug\net10.0\ref\CertificateService.Domain.dll

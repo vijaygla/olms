@@ -1,0 +1,12 @@
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Domain\bin\Debug\net10.0\ReviewService.Domain.deps.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Domain\bin\Debug\net10.0\ReviewService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Domain\bin\Debug\net10.0\ReviewService.Domain.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Domain\obj\Debug\net10.0\ReviewService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Domain\obj\Debug\net10.0\ReviewService.Domain.AssemblyInfoInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Domain\obj\Debug\net10.0\ReviewService.Domain.AssemblyInfo.cs
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Domain\obj\Debug\net10.0\ReviewService.Domain.csproj.CoreCompileInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Domain\obj\Debug\net10.0\ReviewService.Domain.sourcelink.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Domain\obj\Debug\net10.0\ReviewService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Domain\obj\Debug\net10.0\refint\ReviewService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Domain\obj\Debug\net10.0\ReviewService.Domain.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Domain\obj\Debug\net10.0\ref\ReviewService.Domain.dll

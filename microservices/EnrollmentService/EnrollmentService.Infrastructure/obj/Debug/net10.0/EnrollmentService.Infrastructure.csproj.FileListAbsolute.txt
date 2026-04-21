@@ -1,0 +1,12 @@
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Infrastructure\bin\Debug\net10.0\EnrollmentService.Infrastructure.deps.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Infrastructure\bin\Debug\net10.0\EnrollmentService.Infrastructure.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Infrastructure\bin\Debug\net10.0\EnrollmentService.Infrastructure.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Infrastructure\obj\Debug\net10.0\EnrollmentService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Infrastructure\obj\Debug\net10.0\EnrollmentService.Infrastructure.AssemblyInfoInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Infrastructure\obj\Debug\net10.0\EnrollmentService.Infrastructure.AssemblyInfo.cs
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Infrastructure\obj\Debug\net10.0\EnrollmentService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Infrastructure\obj\Debug\net10.0\EnrollmentService.Infrastructure.sourcelink.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Infrastructure\obj\Debug\net10.0\EnrollmentService.Infrastructure.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Infrastructure\obj\Debug\net10.0\refint\EnrollmentService.Infrastructure.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Infrastructure\obj\Debug\net10.0\EnrollmentService.Infrastructure.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Infrastructure\obj\Debug\net10.0\ref\EnrollmentService.Infrastructure.dll

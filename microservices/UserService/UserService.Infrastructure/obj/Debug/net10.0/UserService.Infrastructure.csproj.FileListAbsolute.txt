@@ -1,0 +1,12 @@
+C:\v\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\bin\Debug\net10.0\UserService.Infrastructure.deps.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\bin\Debug\net10.0\UserService.Infrastructure.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\bin\Debug\net10.0\UserService.Infrastructure.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\obj\Debug\net10.0\UserService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\obj\Debug\net10.0\UserService.Infrastructure.AssemblyInfoInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\obj\Debug\net10.0\UserService.Infrastructure.AssemblyInfo.cs
+C:\v\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\obj\Debug\net10.0\UserService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\obj\Debug\net10.0\UserService.Infrastructure.sourcelink.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\obj\Debug\net10.0\UserService.Infrastructure.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\obj\Debug\net10.0\refint\UserService.Infrastructure.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\obj\Debug\net10.0\UserService.Infrastructure.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\obj\Debug\net10.0\ref\UserService.Infrastructure.dll

@@ -1,0 +1,16 @@
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\bin\Debug\net10.0\ProgressService.Application.deps.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\bin\Debug\net10.0\ProgressService.Application.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\bin\Debug\net10.0\ProgressService.Application.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\bin\Debug\net10.0\ProgressService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\bin\Debug\net10.0\ProgressService.Domain.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\obj\Debug\net10.0\ProgressService.Application.csproj.AssemblyReference.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\obj\Debug\net10.0\ProgressService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\obj\Debug\net10.0\ProgressService.Application.AssemblyInfoInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\obj\Debug\net10.0\ProgressService.Application.AssemblyInfo.cs
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\obj\Debug\net10.0\ProgressService.Application.csproj.CoreCompileInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\obj\Debug\net10.0\ProgressService.Application.sourcelink.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\obj\Debug\net10.0\Progress.AC738904.Up2Date
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\obj\Debug\net10.0\ProgressService.Application.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\obj\Debug\net10.0\refint\ProgressService.Application.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\obj\Debug\net10.0\ProgressService.Application.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\ProgressService\ProgressService.Application\obj\Debug\net10.0\ref\ProgressService.Application.dll

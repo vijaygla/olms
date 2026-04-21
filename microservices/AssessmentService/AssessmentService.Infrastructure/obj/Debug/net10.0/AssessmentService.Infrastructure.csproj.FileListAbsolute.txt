@@ -1,0 +1,12 @@
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\bin\Debug\net10.0\AssessmentService.Infrastructure.deps.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\bin\Debug\net10.0\AssessmentService.Infrastructure.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\bin\Debug\net10.0\AssessmentService.Infrastructure.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\obj\Debug\net10.0\AssessmentService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\obj\Debug\net10.0\AssessmentService.Infrastructure.AssemblyInfoInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\obj\Debug\net10.0\AssessmentService.Infrastructure.AssemblyInfo.cs
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\obj\Debug\net10.0\AssessmentService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\obj\Debug\net10.0\AssessmentService.Infrastructure.sourcelink.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\obj\Debug\net10.0\AssessmentService.Infrastructure.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\obj\Debug\net10.0\refint\AssessmentService.Infrastructure.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\obj\Debug\net10.0\AssessmentService.Infrastructure.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\obj\Debug\net10.0\ref\AssessmentService.Infrastructure.dll
