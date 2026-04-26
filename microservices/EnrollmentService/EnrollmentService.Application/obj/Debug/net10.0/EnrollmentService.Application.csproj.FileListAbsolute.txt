@@ -14,3 +14,5 @@ C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\Enrol
 C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Application\obj\Debug\net10.0\refint\EnrollmentService.Application.dll
 C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Application\obj\Debug\net10.0\EnrollmentService.Application.pdb
 C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Application\obj\Debug\net10.0\ref\EnrollmentService.Application.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Application\bin\Debug\net10.0\SharedKernel.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\EnrollmentService\EnrollmentService.Application\bin\Debug\net10.0\SharedKernel.pdb

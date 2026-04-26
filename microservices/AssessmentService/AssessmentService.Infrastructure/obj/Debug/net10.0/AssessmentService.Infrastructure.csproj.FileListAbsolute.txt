@@ -10,3 +10,9 @@ C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\Asses
 C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\obj\Debug\net10.0\refint\AssessmentService.Infrastructure.dll
 C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\obj\Debug\net10.0\AssessmentService.Infrastructure.pdb
 C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\obj\Debug\net10.0\ref\AssessmentService.Infrastructure.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\obj\Debug\net10.0\AssessmentService.Infrastructure.csproj.AssemblyReference.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\bin\Debug\net10.0\AssessmentService.Application.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\bin\Debug\net10.0\AssessmentService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\bin\Debug\net10.0\AssessmentService.Domain.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\bin\Debug\net10.0\AssessmentService.Application.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\AssessmentService\AssessmentService.Infrastructure\obj\Debug\net10.0\Assessme.EEEB95C0.Up2Date

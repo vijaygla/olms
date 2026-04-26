@@ -1,0 +1,16 @@
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\bin\Debug\net10.0\SearchService.Application.deps.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\bin\Debug\net10.0\SearchService.Application.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\bin\Debug\net10.0\SearchService.Application.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\bin\Debug\net10.0\SearchService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\bin\Debug\net10.0\SearchService.Domain.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\obj\Debug\net10.0\SearchService.Application.csproj.AssemblyReference.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\obj\Debug\net10.0\SearchService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\obj\Debug\net10.0\SearchService.Application.AssemblyInfoInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\obj\Debug\net10.0\SearchService.Application.AssemblyInfo.cs
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\obj\Debug\net10.0\SearchService.Application.csproj.CoreCompileInputs.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\obj\Debug\net10.0\SearchService.Application.sourcelink.json
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\obj\Debug\net10.0\SearchSe.47041309.Up2Date
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\obj\Debug\net10.0\SearchService.Application.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\obj\Debug\net10.0\refint\SearchService.Application.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\obj\Debug\net10.0\SearchService.Application.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\obj\Debug\net10.0\ref\SearchService.Application.dll

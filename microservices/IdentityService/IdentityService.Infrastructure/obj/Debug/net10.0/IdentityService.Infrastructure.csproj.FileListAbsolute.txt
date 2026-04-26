@@ -18,3 +18,5 @@ C:\v\OnlineLearningManagementSystemBackend\microservices\IdentityService\Identit
 C:\v\OnlineLearningManagementSystemBackend\microservices\IdentityService\IdentityService.Infrastructure\obj\Debug\net10.0\IdentityService.Infrastructure.pdb
 C:\v\OnlineLearningManagementSystemBackend\microservices\IdentityService\IdentityService.Infrastructure\obj\Debug\net10.0\IdentityService.Infrastructure.genruntimeconfig.cache
 C:\v\OnlineLearningManagementSystemBackend\microservices\IdentityService\IdentityService.Infrastructure\obj\Debug\net10.0\ref\IdentityService.Infrastructure.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\IdentityService\IdentityService.Infrastructure\bin\Debug\net10.0\SharedKernel.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\IdentityService\IdentityService.Infrastructure\bin\Debug\net10.0\SharedKernel.pdb

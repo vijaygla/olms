@@ -1,4 +1,4 @@
-@IdentityService_HostAddress = http://127.0.0.1:8081
+@IdentityService_HostAddress = http://localhost:8001
 
 ### [ANYONE] Register Admin User
 # Used by: New Administrators to set up system access
@@ -30,11 +30,12 @@ POST {{IdentityService_HostAddress}}/api/Auth/register
 Content-Type: application/json
 
 {
-  "name": "Student User",
-  "email": "student@example.com",
-  "password": "Password123!",
+  "name": "Student1",
+  "email": "student1@gmail.com",
+  "password": "Student1@123",
   "role": "Student"
 }
+
 
 ### [ANYONE] Login Admin User
 # Returns: JWT Token for Admin actions
@@ -62,10 +63,19 @@ POST {{IdentityService_HostAddress}}/api/Auth/login
 Content-Type: application/json
 
 {
-  "email": "student@example.com",
-  "password": "Password123!"
+  "email": "student1@gmail.com",
+  "password": "Student1@123"
+}
+
+### [ANYONE] Google Login
+# Returns: JWT Token for users authenticated via Google
+POST {{IdentityService_HostAddress}}/api/Auth/google-login
+Content-Type: application/json
+
+{
+  "idToken": "YOUR_GOOGLE_ID_TOKEN_HERE"
 }
 
 ### [AUTHORIZED] Test Secure Endpoint
 GET {{IdentityService_HostAddress}}/api/Auth/secure
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjlmMmEyMzM2LWI0ZmUtNDJkNS1iYTA2LThiYzkzNGQwNWM0OSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJJbnN0cnVjdG9yIFVzZXIiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJpbnN0cnVjdG9yQGV4YW1wbGUuY29tIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiSW5zdHJ1Y3RvciIsImV4cCI6MTc3NjgwMjYwNiwiaXNzIjoiSWRlbnRpdHlTZXJ2aWNlIiwiYXVkIjoiSWRlbnRpdHlTZXJ2aWNlQ2xpZW50cyJ9.aEULdnoi5bFaQZGENh_bnaIm2V4YVKk_96-lR583b9o
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjdmMDVmMjJkLWUzYmUtNDEzNy1iMjQwLWFmZmI0ZjRmMjdmOSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJBZG1pbiBVc2VyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZW1haWxhZGRyZXNzIjoiYWRtaW5AZXhhbXBsZS5jb20iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJBZG1pbiIsImV4cCI6MTc3NzE1OTU2OSwiaXNzIjoiSWRlbnRpdHlTZXJ2aWNlIiwiYXVkIjoiSWRlbnRpdHlTZXJ2aWNlQ2xpZW50cyJ9.fIKvYm-XkhRHUs1kwqpr-mJvFyInQllFuAGSS6JrOz8

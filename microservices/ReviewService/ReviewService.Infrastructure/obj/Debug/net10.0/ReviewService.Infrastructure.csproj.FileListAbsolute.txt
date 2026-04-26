@@ -10,3 +10,9 @@ C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewSer
 C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Infrastructure\obj\Debug\net10.0\refint\ReviewService.Infrastructure.dll
 C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Infrastructure\obj\Debug\net10.0\ReviewService.Infrastructure.pdb
 C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Infrastructure\obj\Debug\net10.0\ref\ReviewService.Infrastructure.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Infrastructure\bin\Debug\net10.0\ReviewService.Application.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Infrastructure\bin\Debug\net10.0\ReviewService.Domain.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Infrastructure\bin\Debug\net10.0\ReviewService.Domain.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Infrastructure\bin\Debug\net10.0\ReviewService.Application.pdb
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Infrastructure\obj\Debug\net10.0\ReviewService.Infrastructure.csproj.AssemblyReference.cache
+C:\v\OnlineLearningManagementSystemBackend\microservices\ReviewService\ReviewService.Infrastructure\obj\Debug\net10.0\ReviewSe.1ABD872E.Up2Date

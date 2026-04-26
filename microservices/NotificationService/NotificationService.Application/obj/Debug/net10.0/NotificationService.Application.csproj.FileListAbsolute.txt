@@ -14,3 +14,5 @@ C:\v\OnlineLearningManagementSystemBackend\microservices\NotificationService\Not
 C:\v\OnlineLearningManagementSystemBackend\microservices\NotificationService\NotificationService.Application\obj\Debug\net10.0\refint\NotificationService.Application.dll
 C:\v\OnlineLearningManagementSystemBackend\microservices\NotificationService\NotificationService.Application\obj\Debug\net10.0\NotificationService.Application.pdb
 C:\v\OnlineLearningManagementSystemBackend\microservices\NotificationService\NotificationService.Application\obj\Debug\net10.0\ref\NotificationService.Application.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\NotificationService\NotificationService.Application\bin\Debug\net10.0\SharedKernel.dll
+C:\v\OnlineLearningManagementSystemBackend\microservices\NotificationService\NotificationService.Application\bin\Debug\net10.0\SharedKernel.pdb

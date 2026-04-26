@@ -4,6 +4,7 @@ using IdentityService.Application.Services;
 using IdentityService.Infrastructure.Data;
 using IdentityService.Infrastructure.Repositories;
 using IdentityService.Infrastructure.Services;
+using MassTransit;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
@@ -26,28 +27,46 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Logging.ClearProviders();
 builder.Logging.AddConsole();
+builder.Logging.SetMinimumLevel(LogLevel.Warning);
+builder.Logging.AddFilter("Microsoft", LogLevel.Warning);
+builder.Logging.AddFilter("MassTransit", LogLevel.Error);
+builder.Logging.AddFilter("Microsoft.Hosting.Lifetime", LogLevel.None);
 
 builder.Services.AddControllers();
 
-var connectionString = Environment.GetEnvironmentVariable("AZURE_SQL_CONNECTION") 
+var connectionString = Environment.GetEnvironmentVariable("AZURE_SQL_CONNECTION")
                       ?? builder.Configuration.GetConnectionString("DefaultConnection");
 
-var jwtKey = Environment.GetEnvironmentVariable("JWT_SECRET") 
-             ?? builder.Configuration["Jwt:Key"] 
+var jwtKey = Environment.GetEnvironmentVariable("JWT_SECRET")
+             ?? builder.Configuration["Jwt:Key"]
              ?? "THIS_IS_SECRET_KEY_CHANGE_IT_1234567890";
-
-Console.WriteLine($"🔍 Using Connection String: {(string.IsNullOrEmpty(connectionString) ? "MISSING" : "FOUND")}");
-Console.WriteLine($"🔍 Using JWT Key: {(jwtKey == "THIS_IS_SECRET_KEY_CHANGE_IT_1234567890" ? "DEFAULT (WARNING)" : "CUSTOM")}");
 
 var jwtIssuer = builder.Configuration["Jwt:Issuer"] ?? "IdentityService";
 var jwtAudience = builder.Configuration["Jwt:Audience"] ?? "IdentityServiceClients";
 
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(connectionString, sqlOptions => 
+    options.UseSqlServer(connectionString, sqlOptions =>
     {
         sqlOptions.EnableRetryOnFailure(5, TimeSpan.FromSeconds(30), null);
         sqlOptions.CommandTimeout(60);
     }));
+
+// MassTransit Configuration
+builder.Services.AddMassTransit(x =>
+{
+    x.UsingRabbitMq((context, cfg) =>
+    {
+        var rabbitHost = Environment.GetEnvironmentVariable("RabbitMQ__Host") ?? "localhost";
+        var rabbitUser = Environment.GetEnvironmentVariable("RabbitMQ__User") ?? "guest";
+        var rabbitPass = Environment.GetEnvironmentVariable("RabbitMQ__Password") ?? "guest";
+
+        cfg.Host(rabbitHost, "/", h =>
+        {
+            h.Username(rabbitUser);
+            h.Password(rabbitPass);
+        });
+    });
+});
 
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
@@ -105,25 +124,23 @@ var app = builder.Build();
 using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-    try 
+    try
     {
-        Console.WriteLine("--- ☁️ Syncing Database (IdentityService)... ---");
         var databaseCreator = dbContext.Database.GetService<IDatabaseCreator>() as RelationalDatabaseCreator;
         if (databaseCreator != null)
         {
             if (!databaseCreator.Exists()) databaseCreator.Create();
-            
-            try 
+
+            try
             {
                 // Silently check if the table exists
                 dbContext.Database.ExecuteSqlRaw("SELECT TOP 0 * FROM Users");
             }
-            catch 
+            catch
             {
                 databaseCreator.CreateTables();
             }
         }
-        Console.WriteLine("✅ Database sync process completed!");
     }
     catch (Exception ex)
     {
@@ -144,8 +161,9 @@ app.UseAuthorization();
 app.MapGet("/", () => Results.Redirect("/swagger"));
 app.MapControllers();
 
-var port = "8081";
+var port = "8001";
+Console.WriteLine("✅ Database connected successfully!");
 Console.WriteLine($"🚀 Identity Service is running on port {port}");
-Console.WriteLine($"📖 Swagger UI: http://127.0.0.1:{port}/swagger");
+Console.WriteLine($"📖 Swagger UI: http://localhost:{port}/swagger");
 
-app.Run();
+app.Run($"http://0.0.0.0:{port}");
