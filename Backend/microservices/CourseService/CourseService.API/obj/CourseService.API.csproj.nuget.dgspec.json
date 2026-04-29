@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.API\\CourseService.API.csproj": {}
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.API\\CourseService.API.csproj": {}
   },
   "projects": {
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.API\\CourseService.API.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.API\\CourseService.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.API\\CourseService.API.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.API\\CourseService.API.csproj",
         "projectName": "CourseService.API",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.API\\CourseService.API.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.API\\CourseService.API.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.API\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\CourseService.Application.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\CourseService.Application.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\CourseService.Application.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\CourseService.Application.csproj"
               },
-              "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Infrastructure\\CourseService.Infrastructure.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Infrastructure\\CourseService.Infrastructure.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Infrastructure\\CourseService.Infrastructure.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Infrastructure\\CourseService.Infrastructure.csproj"
               }
             }
           }
@@ -507,14 +507,14 @@
         }
       }
     },
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\CourseService.Application.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\CourseService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\CourseService.Application.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\CourseService.Application.csproj",
         "projectName": "CourseService.Application",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\CourseService.Application.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\CourseService.Application.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -529,8 +529,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj"
               }
             }
           }
@@ -844,14 +844,14 @@
         }
       }
     },
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj",
         "projectName": "CourseService.Domain",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -866,8 +866,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj"
               }
             }
           }
@@ -1181,14 +1181,14 @@
         }
       }
     },
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Infrastructure\\CourseService.Infrastructure.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Infrastructure\\CourseService.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Infrastructure\\CourseService.Infrastructure.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Infrastructure\\CourseService.Infrastructure.csproj",
         "projectName": "CourseService.Infrastructure",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Infrastructure\\CourseService.Infrastructure.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Infrastructure\\CourseService.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Infrastructure\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1203,11 +1203,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\CourseService.Application.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\CourseService.Application.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\CourseService.Application.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Application\\CourseService.Application.csproj"
               },
-              "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj"
               }
             }
           }
@@ -1543,14 +1543,14 @@
         }
       }
     },
-    "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj",
         "projectName": "SharedKernel",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj": {}
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
         "projectName": "NotificationService.Infrastructure",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"

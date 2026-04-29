@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CertificateService\\CertificateService.Domain\\CertificateService.Domain.csproj": {}
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CertificateService\\CertificateService.Domain\\CertificateService.Domain.csproj": {}
   },
   "projects": {
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CertificateService\\CertificateService.Domain\\CertificateService.Domain.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CertificateService\\CertificateService.Domain\\CertificateService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CertificateService\\CertificateService.Domain\\CertificateService.Domain.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CertificateService\\CertificateService.Domain\\CertificateService.Domain.csproj",
         "projectName": "CertificateService.Domain",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CertificateService\\CertificateService.Domain\\CertificateService.Domain.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CertificateService\\CertificateService.Domain\\CertificateService.Domain.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CertificateService\\CertificateService.Domain\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CertificateService\\CertificateService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/7rZEzXtvXg=",
+  "dgSpecHash": "0Pi+V6jhYMw=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\DiscussionService\\DiscussionService.API\\DiscussionService.API.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\DiscussionService\\DiscussionService.API\\DiscussionService.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pmdhrs\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\pmdhrs\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

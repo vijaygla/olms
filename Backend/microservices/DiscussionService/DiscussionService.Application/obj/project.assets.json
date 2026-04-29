@@ -651,11 +651,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\DiscussionService\\DiscussionService.Application\\DiscussionService.Application.csproj",
+      "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\DiscussionService\\DiscussionService.Application\\DiscussionService.Application.csproj",
       "projectName": "DiscussionService.Application",
-      "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\DiscussionService\\DiscussionService.Application\\DiscussionService.Application.csproj",
+      "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\DiscussionService\\DiscussionService.Application\\DiscussionService.Application.csproj",
       "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-      "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\DiscussionService\\DiscussionService.Application\\obj\\",
+      "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\DiscussionService\\DiscussionService.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -670,11 +670,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\DiscussionService\\DiscussionService.Domain\\DiscussionService.Domain.csproj": {
-              "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\DiscussionService\\DiscussionService.Domain\\DiscussionService.Domain.csproj"
+            "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\DiscussionService\\DiscussionService.Domain\\DiscussionService.Domain.csproj": {
+              "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\DiscussionService\\DiscussionService.Domain\\DiscussionService.Domain.csproj"
             },
-            "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
-              "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj"
+            "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
+              "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj"
             }
           }
         }

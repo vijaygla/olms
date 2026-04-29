@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vQDSaCo1aaM=",
+  "dgSpecHash": "4kfCg3uWn/4=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\PaymentService\\PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\PaymentService\\PaymentService.Infrastructure\\PaymentService.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pmdhrs\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\pmdhrs\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

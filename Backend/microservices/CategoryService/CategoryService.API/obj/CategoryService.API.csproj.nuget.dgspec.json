@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.API\\CategoryService.API.csproj": {}
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.API\\CategoryService.API.csproj": {}
   },
   "projects": {
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.API\\CategoryService.API.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.API\\CategoryService.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.API\\CategoryService.API.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.API\\CategoryService.API.csproj",
         "projectName": "CategoryService.API",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.API\\CategoryService.API.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.API\\CategoryService.API.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.API\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\CategoryService.Application.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\CategoryService.Application.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\CategoryService.Application.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\CategoryService.Application.csproj"
               },
-              "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Infrastructure\\CategoryService.Infrastructure.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Infrastructure\\CategoryService.Infrastructure.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Infrastructure\\CategoryService.Infrastructure.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Infrastructure\\CategoryService.Infrastructure.csproj"
               }
             }
           }
@@ -507,14 +507,14 @@
         }
       }
     },
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\CategoryService.Application.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\CategoryService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\CategoryService.Application.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\CategoryService.Application.csproj",
         "projectName": "CategoryService.Application",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\CategoryService.Application.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\CategoryService.Application.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -529,8 +529,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj"
               }
             }
           }
@@ -844,14 +844,14 @@
         }
       }
     },
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj",
         "projectName": "CategoryService.Domain",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -866,8 +866,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj"
               }
             }
           }
@@ -1181,14 +1181,14 @@
         }
       }
     },
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Infrastructure\\CategoryService.Infrastructure.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Infrastructure\\CategoryService.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Infrastructure\\CategoryService.Infrastructure.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Infrastructure\\CategoryService.Infrastructure.csproj",
         "projectName": "CategoryService.Infrastructure",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Infrastructure\\CategoryService.Infrastructure.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Infrastructure\\CategoryService.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Infrastructure\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1203,11 +1203,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\CategoryService.Application.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\CategoryService.Application.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\CategoryService.Application.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Application\\CategoryService.Application.csproj"
               },
-              "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj"
               }
             }
           }
@@ -1543,14 +1543,14 @@
         }
       }
     },
-    "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj",
         "projectName": "SharedKernel",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"

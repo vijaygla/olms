@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C/D7+tJV0lg=",
+  "dgSpecHash": "ZMlQNE7o/1A=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\PaymentService\\PaymentService.Domain\\PaymentService.Domain.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\PaymentService\\PaymentService.Domain\\PaymentService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

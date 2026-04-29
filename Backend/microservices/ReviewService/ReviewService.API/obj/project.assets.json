@@ -3570,11 +3570,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.API\\ReviewService.API.csproj",
+      "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.API\\ReviewService.API.csproj",
       "projectName": "ReviewService.API",
-      "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.API\\ReviewService.API.csproj",
+      "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.API\\ReviewService.API.csproj",
       "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-      "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.API\\obj\\",
+      "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3589,11 +3589,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.Application\\ReviewService.Application.csproj": {
-              "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.Application\\ReviewService.Application.csproj"
+            "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.Application\\ReviewService.Application.csproj": {
+              "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.Application\\ReviewService.Application.csproj"
             },
-            "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.Infrastructure\\ReviewService.Infrastructure.csproj": {
-              "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.Infrastructure\\ReviewService.Infrastructure.csproj"
+            "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.Infrastructure\\ReviewService.Infrastructure.csproj": {
+              "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.Infrastructure\\ReviewService.Infrastructure.csproj"
             }
           }
         }

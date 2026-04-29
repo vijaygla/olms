@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g2YJvGsS8Vs=",
+  "dgSpecHash": "lt/FcZnCLZM=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.Domain\\CategoryService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

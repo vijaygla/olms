@@ -180,11 +180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\gateway\\ApiGateway\\ApiGateway.csproj",
+      "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\gateway\\ApiGateway\\ApiGateway.csproj",
       "projectName": "ApiGateway",
-      "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\gateway\\ApiGateway\\ApiGateway.csproj",
+      "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\gateway\\ApiGateway\\ApiGateway.csproj",
       "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-      "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\gateway\\ApiGateway\\obj\\",
+      "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\gateway\\ApiGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"

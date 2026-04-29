@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P/BP/MRH7Vg=",
+  "dgSpecHash": "XEJe0uymlsU=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\DiscussionService\\DiscussionService.Domain\\DiscussionService.Domain.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\DiscussionService\\DiscussionService.Domain\\DiscussionService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

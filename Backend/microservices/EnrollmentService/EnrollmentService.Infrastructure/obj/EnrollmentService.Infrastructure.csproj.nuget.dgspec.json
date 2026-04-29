@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Infrastructure\\EnrollmentService.Infrastructure.csproj": {}
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Infrastructure\\EnrollmentService.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Application\\EnrollmentService.Application.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Application\\EnrollmentService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Application\\EnrollmentService.Application.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Application\\EnrollmentService.Application.csproj",
         "projectName": "EnrollmentService.Application",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Application\\EnrollmentService.Application.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Application\\EnrollmentService.Application.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Application\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\EnrollmentService.Domain.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\EnrollmentService.Domain.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\EnrollmentService.Domain.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\EnrollmentService.Domain.csproj"
               },
-              "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj"
               }
             }
           }
@@ -350,14 +350,14 @@
         }
       }
     },
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\EnrollmentService.Domain.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\EnrollmentService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\EnrollmentService.Domain.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\EnrollmentService.Domain.csproj",
         "projectName": "EnrollmentService.Domain",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\EnrollmentService.Domain.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\EnrollmentService.Domain.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -372,8 +372,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj"
               }
             }
           }
@@ -687,14 +687,14 @@
         }
       }
     },
-    "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Infrastructure\\EnrollmentService.Infrastructure.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Infrastructure\\EnrollmentService.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Infrastructure\\EnrollmentService.Infrastructure.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Infrastructure\\EnrollmentService.Infrastructure.csproj",
         "projectName": "EnrollmentService.Infrastructure",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Infrastructure\\EnrollmentService.Infrastructure.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Infrastructure\\EnrollmentService.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Infrastructure\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -709,14 +709,14 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Application\\EnrollmentService.Application.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Application\\EnrollmentService.Application.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Application\\EnrollmentService.Application.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Application\\EnrollmentService.Application.csproj"
               },
-              "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\EnrollmentService.Domain.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\EnrollmentService.Domain.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\EnrollmentService.Domain.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.Domain\\EnrollmentService.Domain.csproj"
               },
-              "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
-                "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj"
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj"
               }
             }
           }
@@ -1036,14 +1036,14 @@
         }
       }
     },
-    "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
+    "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj",
+        "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj",
         "projectName": "SharedKernel",
-        "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj",
+        "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\obj\\",
+        "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"

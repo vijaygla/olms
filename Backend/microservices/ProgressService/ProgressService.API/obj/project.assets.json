@@ -3589,11 +3589,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.API\\ProgressService.API.csproj",
+      "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.API\\ProgressService.API.csproj",
       "projectName": "ProgressService.API",
-      "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.API\\ProgressService.API.csproj",
+      "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.API\\ProgressService.API.csproj",
       "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-      "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.API\\obj\\",
+      "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3608,11 +3608,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.Application\\ProgressService.Application.csproj": {
-              "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.Application\\ProgressService.Application.csproj"
+            "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.Application\\ProgressService.Application.csproj": {
+              "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.Application\\ProgressService.Application.csproj"
             },
-            "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.Infrastructure\\ProgressService.Infrastructure.csproj": {
-              "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.Infrastructure\\ProgressService.Infrastructure.csproj"
+            "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.Infrastructure\\ProgressService.Infrastructure.csproj": {
+              "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.Infrastructure\\ProgressService.Infrastructure.csproj"
             }
           }
         }

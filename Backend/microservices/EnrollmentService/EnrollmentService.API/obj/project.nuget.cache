@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V7qieIggOQU=",
+  "dgSpecHash": "mMTp42Dzn60=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.API\\EnrollmentService.API.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\EnrollmentService\\EnrollmentService.API\\EnrollmentService.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pmdhrs\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\pmdhrs\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R/AyDxdcXVw=",
+  "dgSpecHash": "9HgT0mmRX9o=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\AssessmentService\\AssessmentService.Application\\AssessmentService.Application.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\AssessmentService\\AssessmentService.Application\\AssessmentService.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

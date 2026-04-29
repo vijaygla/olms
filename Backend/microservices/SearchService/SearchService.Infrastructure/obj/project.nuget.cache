@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "izevtcIGPg8=",
+  "dgSpecHash": "oqq2rEWF69Q=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\SearchService\\SearchService.Infrastructure\\SearchService.Infrastructure.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\SearchService\\SearchService.Infrastructure\\SearchService.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pmdhrs\\.nuget\\packages\\meilisearch\\0.18.0\\meilisearch.0.18.0.nupkg.sha512",
     "C:\\Users\\pmdhrs\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.7\\microsoft.extensions.configuration.abstractions.10.0.7.nupkg.sha512",

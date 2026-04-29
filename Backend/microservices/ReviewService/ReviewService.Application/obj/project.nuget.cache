@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c5nwOItgZIQ=",
+  "dgSpecHash": "jBYonPORKUU=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.Application\\ReviewService.Application.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ReviewService\\ReviewService.Application\\ReviewService.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

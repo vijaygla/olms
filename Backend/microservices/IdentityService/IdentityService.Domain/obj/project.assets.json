@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\IdentityService\\IdentityService.Domain\\IdentityService.Domain.csproj",
+      "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\IdentityService\\IdentityService.Domain\\IdentityService.Domain.csproj",
       "projectName": "IdentityService.Domain",
-      "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\IdentityService\\IdentityService.Domain\\IdentityService.Domain.csproj",
+      "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\IdentityService\\IdentityService.Domain\\IdentityService.Domain.csproj",
       "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-      "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\IdentityService\\IdentityService.Domain\\obj\\",
+      "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\IdentityService\\IdentityService.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"

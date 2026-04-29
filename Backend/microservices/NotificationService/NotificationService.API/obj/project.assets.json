@@ -858,11 +858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.API\\NotificationService.API.csproj",
+      "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.API\\NotificationService.API.csproj",
       "projectName": "NotificationService.API",
-      "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.API\\NotificationService.API.csproj",
+      "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.API\\NotificationService.API.csproj",
       "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-      "outputPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.API\\obj\\",
+      "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -877,11 +877,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Application\\NotificationService.Application.csproj": {
-              "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Application\\NotificationService.Application.csproj"
+            "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Application\\NotificationService.Application.csproj": {
+              "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Application\\NotificationService.Application.csproj"
             },
-            "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj": {
-              "projectPath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj"
+            "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj": {
+              "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj"
             }
           }
         }

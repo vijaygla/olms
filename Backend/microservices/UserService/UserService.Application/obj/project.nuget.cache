@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GYTx38ht3M0=",
+  "dgSpecHash": "Ko5v4Wwbrvs=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\UserService\\UserService.Application\\UserService.Application.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\UserService\\UserService.Application\\UserService.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pmdhrs\\.nuget\\packages\\masstransit\\8.2.5\\masstransit.8.2.5.nupkg.sha512",
     "C:\\Users\\pmdhrs\\.nuget\\packages\\masstransit.abstractions\\8.2.5\\masstransit.abstractions.8.2.5.nupkg.sha512"

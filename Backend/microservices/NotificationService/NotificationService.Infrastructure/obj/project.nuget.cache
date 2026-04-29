@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UZ5HMqxBPgU=",
+  "dgSpecHash": "fKnPWAoldVg=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9heZ9lCQRMI=",
+  "dgSpecHash": "b9czD+Rbhng=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\MediaService\\MediaService.Domain\\MediaService.Domain.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\MediaService\\MediaService.Domain\\MediaService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

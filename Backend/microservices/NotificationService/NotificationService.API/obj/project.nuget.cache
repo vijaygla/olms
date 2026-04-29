@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LlpQ0bL5p8E=",
+  "dgSpecHash": "q9i7u+iBOZo=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.API\\NotificationService.API.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\NotificationService\\NotificationService.API\\NotificationService.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pmdhrs\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\pmdhrs\\.nuget\\packages\\mailkit\\4.16.0\\mailkit.4.16.0.nupkg.sha512",

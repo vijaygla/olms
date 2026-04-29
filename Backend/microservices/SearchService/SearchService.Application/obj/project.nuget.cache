@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "82t5Nk/JDr0=",
+  "dgSpecHash": "fBLuocb/c34=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\SearchService\\SearchService.Application\\SearchService.Application.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\SearchService\\SearchService.Application\\SearchService.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eA9eNxC4JP8=",
+  "dgSpecHash": "PfP9B9BpUUM=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.Domain\\ProgressService.Domain.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ProgressService\\ProgressService.Domain\\ProgressService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

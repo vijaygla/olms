@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KKsrYa6VLD8=",
+  "dgSpecHash": "TetJiYHQbX0=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CertificateService\\CertificateService.API\\CertificateService.API.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CertificateService\\CertificateService.API\\CertificateService.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pmdhrs\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\pmdhrs\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

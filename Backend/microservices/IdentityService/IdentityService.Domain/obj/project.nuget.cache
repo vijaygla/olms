@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kh58Uf8MhvE=",
+  "dgSpecHash": "zyf+VXvb8zM=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\IdentityService\\IdentityService.Domain\\IdentityService.Domain.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\IdentityService\\IdentityService.Domain\\IdentityService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

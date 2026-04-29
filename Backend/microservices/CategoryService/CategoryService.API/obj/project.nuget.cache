@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JxJ3InSFVE8=",
+  "dgSpecHash": "mx+iyPcgYBQ=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.API\\CategoryService.API.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CategoryService\\CategoryService.API\\CategoryService.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pmdhrs\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\pmdhrs\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

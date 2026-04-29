@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H6oa8rb7V+E=",
+  "dgSpecHash": "bPxQsALipDc=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\ContentService\\ContentService.Application\\ContentService.Application.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\ContentService\\ContentService.Application\\ContentService.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

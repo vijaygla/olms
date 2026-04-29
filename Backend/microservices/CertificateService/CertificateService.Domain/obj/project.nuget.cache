@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DVBPvUhqDk0=",
+  "dgSpecHash": "lHRbnFcNdcY=",
   "success": true,
-  "projectFilePath": "C:\\v\\OnlineLearningManagementSystemBackend\\microservices\\CertificateService\\CertificateService.Domain\\CertificateService.Domain.csproj",
+  "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CertificateService\\CertificateService.Domain\\CertificateService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
