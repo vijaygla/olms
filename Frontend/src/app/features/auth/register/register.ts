@@ -45,9 +45,13 @@ export class RegisterComponent implements OnInit {
 
   private initializeGoogleLogin() {
     if (typeof google !== 'undefined') {
+      google.accounts.id.disableAutoSelect();
+      
       google.accounts.id.initialize({
         client_id: environment.googleClientId,
-        callback: (response: any) => this.handleGoogleLogin(response)
+        callback: (response: any) => this.handleGoogleLogin(response),
+        auto_select: false,
+        cancel_on_tap_outside: true
       });
       google.accounts.id.renderButton(
         document.getElementById('google-btn'),

@@ -41,10 +41,16 @@ export class LoginComponent implements OnInit {
 
   private initializeGoogleLogin() {
     if (typeof google !== 'undefined') {
+      // Sign out first to ensure we can re-initialize if needed
+      google.accounts.id.disableAutoSelect();
+      
       google.accounts.id.initialize({
         client_id: environment.googleClientId,
-        callback: (response: any) => this.handleGoogleLogin(response)
+        callback: (response: any) => this.handleGoogleLogin(response),
+        auto_select: false,
+        cancel_on_tap_outside: true
       });
+
       google.accounts.id.renderButton(
         document.getElementById('google-btn'),
         { theme: 'outline', size: 'large', width: '100%', text: 'continue_with', shape: 'pill' }
