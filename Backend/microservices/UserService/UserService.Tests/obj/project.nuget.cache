@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UGmYQB+E+4I=",
+  "dgSpecHash": "0N4PXYq7Tv0=",
   "success": true,
   "projectFilePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\UserService\\UserService.Tests\\UserService.Tests.csproj",
   "expectedPackageFiles": [
@@ -35,5 +35,15 @@
     "C:\\Users\\pmdhrs\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512",
     "C:\\Users\\pmdhrs\\.nuget\\packages\\xunit.runner.visualstudio\\3.1.4\\xunit.runner.visualstudio.3.1.4.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\UserService\\UserService.Tests\\UserService.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\UserService\\UserService.Tests\\UserService.Tests.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

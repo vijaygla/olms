@@ -27,9 +27,9 @@ C:\v\olms\OnlineLearningManagementSystemBackend\microservices\UserService\UserSe
 C:\v\olms\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\bin\Debug\net10.0\SharedKernel.dll
 C:\v\olms\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\bin\Debug\net10.0\UserService.Application.dll
 C:\v\olms\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\bin\Debug\net10.0\UserService.Domain.dll
-C:\v\olms\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\bin\Debug\net10.0\SharedKernel.pdb
 C:\v\olms\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\bin\Debug\net10.0\UserService.Domain.pdb
 C:\v\olms\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\bin\Debug\net10.0\UserService.Application.pdb
+C:\v\olms\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\bin\Debug\net10.0\SharedKernel.pdb
 C:\v\olms\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\obj\Debug\net10.0\UserService.Infrastructure.csproj.AssemblyReference.cache
 C:\v\olms\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\obj\Debug\net10.0\UserService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 C:\v\olms\OnlineLearningManagementSystemBackend\microservices\UserService\UserService.Infrastructure\obj\Debug\net10.0\UserService.Infrastructure.AssemblyInfoInputs.cache
