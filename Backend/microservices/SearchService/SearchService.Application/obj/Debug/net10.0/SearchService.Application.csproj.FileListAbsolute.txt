@@ -30,3 +30,5 @@ C:\v\olms\OnlineLearningManagementSystemBackend\microservices\SearchService\Sear
 C:\v\olms\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\obj\Debug\net10.0\refint\SearchService.Application.dll
 C:\v\olms\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\obj\Debug\net10.0\SearchService.Application.pdb
 C:\v\olms\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\obj\Debug\net10.0\ref\SearchService.Application.dll
+C:\v\olms\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\bin\Debug\net10.0\SharedKernel.dll
+C:\v\olms\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.Application\bin\Debug\net10.0\SharedKernel.pdb

@@ -108,3 +108,5 @@ C:\v\olms\OnlineLearningManagementSystemBackend\microservices\SearchService\Sear
 C:\v\olms\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.API\obj\Debug\net10.0\SearchService.API.pdb
 C:\v\olms\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.API\obj\Debug\net10.0\SearchService.API.genruntimeconfig.cache
 C:\v\olms\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.API\obj\Debug\net10.0\ref\SearchService.API.dll
+C:\v\olms\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.API\bin\Debug\net10.0\SharedKernel.dll
+C:\v\olms\OnlineLearningManagementSystemBackend\microservices\SearchService\SearchService.API\bin\Debug\net10.0\SharedKernel.pdb

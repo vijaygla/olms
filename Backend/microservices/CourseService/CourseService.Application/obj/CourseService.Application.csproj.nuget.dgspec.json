@@ -28,6 +28,9 @@
             "projectReferences": {
               "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj": {
                 "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj"
+              },
+              "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
+                "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj"
               }
             }
           }
@@ -47,6 +50,12 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "MassTransit.Abstractions": {
+              "target": "Package",
+              "version": "[8.2.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

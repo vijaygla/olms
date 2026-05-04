@@ -203,7 +203,9 @@
       },
       "SearchService.Application/1.0.0": {
         "dependencies": {
-          "SearchService.Domain": "1.0.0"
+          "MassTransit.Abstractions": "8.2.5",
+          "SearchService.Domain": "1.0.0",
+          "SharedKernel": "1.0.0"
         },
         "runtime": {
           "SearchService.Application.dll": {
@@ -228,6 +230,14 @@
         },
         "runtime": {
           "SearchService.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SharedKernel/1.0.0": {
+        "runtime": {
+          "SharedKernel.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -378,6 +388,11 @@
       "sha512": ""
     },
     "SearchService.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharedKernel/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

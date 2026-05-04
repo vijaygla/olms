@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net10.0": {
+      "MassTransit.Abstractions/8.2.5": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/MassTransit.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/MassTransit.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "CourseService.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -28,6 +41,27 @@
     }
   },
   "libraries": {
+    "MassTransit.Abstractions/8.2.5": {
+      "sha512": "TcAV7ZEdXTrw6D74g55mlEYLBBQvsifNrdfwt0UCps7mZVBoXoS3fvMHCQguRgj+6k1Q1qEV9kZa0aUOT7GcPQ==",
+      "type": "package",
+      "path": "masstransit.abstractions/8.2.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "NuGet.README.md",
+        "lib/net472/MassTransit.Abstractions.dll",
+        "lib/net472/MassTransit.Abstractions.xml",
+        "lib/net6.0/MassTransit.Abstractions.dll",
+        "lib/net6.0/MassTransit.Abstractions.xml",
+        "lib/net8.0/MassTransit.Abstractions.dll",
+        "lib/net8.0/MassTransit.Abstractions.xml",
+        "lib/netstandard2.0/MassTransit.Abstractions.dll",
+        "lib/netstandard2.0/MassTransit.Abstractions.xml",
+        "masstransit.abstractions.8.2.5.nupkg.sha512",
+        "masstransit.abstractions.nuspec",
+        "mt-logo-small.png"
+      ]
+    },
     "CourseService.Domain/1.0.0": {
       "type": "project",
       "path": "../CourseService.Domain/CourseService.Domain.csproj",
@@ -41,7 +75,9 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "CourseService.Domain >= 1.0.0"
+      "CourseService.Domain >= 1.0.0",
+      "MassTransit.Abstractions >= 8.2.5",
+      "SharedKernel >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -71,6 +107,9 @@
           "projectReferences": {
             "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj": {
               "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\CourseService\\CourseService.Domain\\CourseService.Domain.csproj"
+            },
+            "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj": {
+              "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\shared\\SharedKernel\\SharedKernel.csproj"
             }
           }
         }
@@ -90,6 +129,12 @@
     "frameworks": {
       "net10.0": {
         "targetAlias": "net10.0",
+        "dependencies": {
+          "MassTransit.Abstractions": {
+            "target": "Package",
+            "version": "[8.2.5, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

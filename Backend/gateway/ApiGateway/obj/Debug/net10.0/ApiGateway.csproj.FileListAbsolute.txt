@@ -70,3 +70,5 @@ C:\v\olms\OnlineLearningManagementSystemBackend\gateway\ApiGateway\obj\Debug\net
 C:\v\olms\OnlineLearningManagementSystemBackend\gateway\ApiGateway\obj\Debug\net10.0\ApiGateway.pdb
 C:\v\olms\OnlineLearningManagementSystemBackend\gateway\ApiGateway\obj\Debug\net10.0\ApiGateway.genruntimeconfig.cache
 C:\v\olms\OnlineLearningManagementSystemBackend\gateway\ApiGateway\obj\Debug\net10.0\ref\ApiGateway.dll
+C:\v\olms\OnlineLearningManagementSystemBackend\gateway\ApiGateway\bin\Debug\net10.0\SharedKernel.dll
+C:\v\olms\OnlineLearningManagementSystemBackend\gateway\ApiGateway\bin\Debug\net10.0\SharedKernel.pdb

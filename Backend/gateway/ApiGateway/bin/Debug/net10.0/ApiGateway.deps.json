@@ -9,6 +9,7 @@
       "ApiGateway/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "10.0.6",
+          "SharedKernel": "1.0.0",
           "Yarp.ReverseProxy": "2.3.0"
         },
         "runtime": {
@@ -52,6 +53,14 @@
             "fileVersion": "2.300.25.12702"
           }
         }
+      },
+      "SharedKernel/1.0.0": {
+        "runtime": {
+          "SharedKernel.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -88,6 +97,11 @@
       "sha512": "sha512-gxtkN3a+9biu9V9Zd5NaTO6VZWXAnS2mhQ0R/VXmSPoTuiQNZsakKikrKpDtKxrL5nUYzbRsHtl40WNq+ZBKKg==",
       "path": "yarp.reverseproxy/2.3.0",
       "hashPath": "yarp.reverseproxy.2.3.0.nupkg.sha512"
+    },
+    "SharedKernel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
