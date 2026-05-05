@@ -1742,11 +1742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\UserService\\UserService.Tests\\UserService.Tests.csproj",
+      "projectUniqueName": "C:\\v\\olms-backup\\Backend\\microservices\\UserService\\UserService.Tests\\UserService.Tests.csproj",
       "projectName": "UserService.Tests",
-      "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\UserService\\UserService.Tests\\UserService.Tests.csproj",
+      "projectPath": "C:\\v\\olms-backup\\Backend\\microservices\\UserService\\UserService.Tests\\UserService.Tests.csproj",
       "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-      "outputPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\UserService\\UserService.Tests\\obj\\",
+      "outputPath": "C:\\v\\olms-backup\\Backend\\microservices\\UserService\\UserService.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1761,11 +1761,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\UserService\\UserService.Application\\UserService.Application.csproj": {
-              "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\UserService\\UserService.Application\\UserService.Application.csproj"
+            "C:\\v\\olms-backup\\Backend\\microservices\\UserService\\UserService.Application\\UserService.Application.csproj": {
+              "projectPath": "C:\\v\\olms-backup\\Backend\\microservices\\UserService\\UserService.Application\\UserService.Application.csproj"
             },
-            "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\UserService\\UserService.Domain\\UserService.Domain.csproj": {
-              "projectPath": "C:\\v\\olms\\OnlineLearningManagementSystemBackend\\microservices\\UserService\\UserService.Domain\\UserService.Domain.csproj"
+            "C:\\v\\olms-backup\\Backend\\microservices\\UserService\\UserService.Domain\\UserService.Domain.csproj": {
+              "projectPath": "C:\\v\\olms-backup\\Backend\\microservices\\UserService\\UserService.Domain\\UserService.Domain.csproj"
             }
           }
         }
@@ -2104,13 +2104,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }
