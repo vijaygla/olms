@@ -27,11 +27,43 @@ public class AssessmentsController : ControllerBase
         return Ok(quiz);
     }
 
+    [HttpPut("{id}")]
+    [Authorize(Roles = "Admin,Instructor")]
+    public async Task<IActionResult> UpdateQuiz(Guid id, UpdateQuizRequest request)
+    {
+        await _service.UpdateQuizAsync(id, request);
+        return NoContent();
+    }
+
+    [HttpDelete("{id}")]
+    [Authorize(Roles = "Admin,Instructor")]
+    public async Task<IActionResult> DeleteQuiz(Guid id)
+    {
+        await _service.DeleteQuizAsync(id);
+        return NoContent();
+    }
+
     [HttpPost("{quizId}/questions")]
     [Authorize(Roles = "Admin,Instructor")]
     public async Task<IActionResult> AddQuestion(Guid quizId, AddQuestionRequest request)
     {
         await _service.AddQuestionAsync(quizId, request);
+        return NoContent();
+    }
+
+    [HttpPut("questions/{id}")]
+    [Authorize(Roles = "Admin,Instructor")]
+    public async Task<IActionResult> UpdateQuestion(Guid id, UpdateQuestionRequest request)
+    {
+        await _service.UpdateQuestionAsync(id, request);
+        return NoContent();
+    }
+
+    [HttpDelete("questions/{id}")]
+    [Authorize(Roles = "Admin,Instructor")]
+    public async Task<IActionResult> DeleteQuestion(Guid id)
+    {
+        await _service.DeleteQuestionAsync(id);
         return NoContent();
     }
 
@@ -43,12 +75,12 @@ public class AssessmentsController : ControllerBase
     }
 
     [HttpGet("{quizId}")]
-    public async Task<IActionResult> GetQuizQuestions(Guid quizId)
+    public async Task<IActionResult> GetQuiz(Guid quizId)
     {
         try
         {
-            var questions = await _service.GetQuizQuestionsAsync(quizId);
-            return Ok(questions);
+            var quiz = await _service.GetQuizByIdAsync(quizId);
+            return Ok(quiz);
         }
         catch (KeyNotFoundException)
         {
@@ -73,5 +105,16 @@ public class AssessmentsController : ControllerBase
         {
             return NotFound();
         }
+    }
+
+    [HttpGet("my-submissions")]
+    public async Task<IActionResult> GetMySubmissions()
+    {
+        var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+        if (string.IsNullOrEmpty(userIdClaim)) return Unauthorized();
+
+        var studentId = Guid.Parse(userIdClaim);
+        var subs = await _service.GetStudentSubmissionsAsync(studentId);
+        return Ok(subs);
     }
 }

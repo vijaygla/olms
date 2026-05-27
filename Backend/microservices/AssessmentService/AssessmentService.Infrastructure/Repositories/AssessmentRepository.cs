@@ -24,6 +24,7 @@ public class AssessmentRepository : IAssessmentRepository
     public async Task<IEnumerable<Quiz>> GetQuizzesByCourseIdAsync(Guid courseId)
     {
         return await _context.Quizzes
+            .Include(q => q.Questions)
             .Where(q => q.CourseId == courseId)
             .ToListAsync();
     }
@@ -34,10 +35,47 @@ public class AssessmentRepository : IAssessmentRepository
         await _context.SaveChangesAsync();
     }
 
+    public async Task UpdateQuizAsync(Quiz quiz)
+    {
+        _context.Quizzes.Update(quiz);
+        await _context.SaveChangesAsync();
+    }
+
+    public async Task DeleteQuizAsync(Guid id)
+    {
+        var quiz = await _context.Quizzes.FindAsync(id);
+        if (quiz != null)
+        {
+            _context.Quizzes.Remove(quiz);
+            await _context.SaveChangesAsync();
+        }
+    }
+
+    public async Task<Question?> GetQuestionByIdAsync(Guid id)
+    {
+        return await _context.Questions.FindAsync(id);
+    }
+
     public async Task AddQuestionAsync(Question question)
     {
         await _context.Questions.AddAsync(question);
         await _context.SaveChangesAsync();
+    }
+
+    public async Task UpdateQuestionAsync(Question question)
+    {
+        _context.Questions.Update(question);
+        await _context.SaveChangesAsync();
+    }
+
+    public async Task DeleteQuestionAsync(Guid id)
+    {
+        var question = await _context.Questions.FindAsync(id);
+        if (question != null)
+        {
+            _context.Questions.Remove(question);
+            await _context.SaveChangesAsync();
+        }
     }
 
     public async Task AddSubmissionAsync(QuizSubmission submission)
@@ -50,6 +88,7 @@ public class AssessmentRepository : IAssessmentRepository
     {
         return await _context.Submissions
             .Where(s => s.StudentId == studentId)
+            .OrderByDescending(s => s.SubmittedAt)
             .ToListAsync();
     }
 }

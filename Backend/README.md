@@ -177,7 +177,7 @@ Local secrets should not be committed. The repository ignores common secret file
 Create `docker/.env` for Docker-based development:
 
 ```env
-AZURE_SQL_CONNECTION=Server=...
+DefaultConnection=Server=localhost\\SQLEXPRESS;Database=...Db;Trusted_Connection=True;
 JWT_SECRET=replace-with-a-long-secret
 RABBITMQ_USER=guest
 RABBITMQ_PASSWORD=guest
@@ -316,4 +316,5 @@ dotnet ef database update `
 3. Follow the existing service layout.
 4. Test the affected service before opening a pull request.
 5. Update this README when routes, ports, infrastructure, or setup steps change.
+
 
